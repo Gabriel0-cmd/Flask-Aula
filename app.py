@@ -19,7 +19,7 @@ from flask import Flask, redirect
 
 def home(): 
 
-  return redirect("/")
+  return redirect("/Oi")
 
 from flask import Flask, redirect, render_template
 
